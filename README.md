@@ -42,7 +42,7 @@ cd flask_web/
 docker build -t flask-tutorial:latest -f dockerfile  .
 
 #Den Container starten
-docker run -d -p 5000:5000 flask-tutorial
+docker run -d -p 80:5000 flask-tutorial
 
 
 
