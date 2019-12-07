@@ -6,7 +6,8 @@ Wir benutzen das Python Programm app.py
 Siehe
 https://runnable.com/docker/python/dockerize-your-flask-application
 
-Wir setzen auf Google Cloud in Zurich eine CentOs-8 Linux Maschine auf:
+Wir setzen auf Google Cloud in Zurich eine CentOs-8 Linux Maschine auf
+<image src="https://raw.githubusercontent.com/zurichcode/flask_web/master/flask_web_host_google_cloud.PNG"/>
 
 #superuser werden , damit man Installieren darf
 
