@@ -41,6 +41,9 @@ cd flask_web/
 #Den Container bauen
 docker build -t flask-tutorial:latest -f dockerfile  .
 
+#Ist der Container da?
+docker images
+
 #Den Container starten
 docker run -d -p 80:5000 flask-tutorial
 
