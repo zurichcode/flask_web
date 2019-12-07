@@ -9,6 +9,9 @@ https://runnable.com/docker/python/dockerize-your-flask-application
 Wir setzen auf Google Cloud in Zurich eine CentOs-8 Linux Maschine auf
 <image src="https://raw.githubusercontent.com/zurichcode/flask_web/master/flask_web_host_google_cloud.PNG"/>
 
+
+#danach per ssh verbinden.
+
 #superuser werden , damit man Installieren darf
 
 sudo su -
