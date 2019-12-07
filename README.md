@@ -1,6 +1,8 @@
 # flask_web
 Ein erster Webserver mit Flask im Container
 
+Wir benutzen das Python Programm app.py
+
 Siehe
 https://runnable.com/docker/python/dockerize-your-flask-application
 
@@ -46,6 +48,12 @@ docker images
 
 #Den Container starten
 docker run -d -p 80:5000 flask-tutorial
+
+#man kann nun mit
+curl localhost
+
+#den output des webservers sehen. In Google Cloud muss man das Netzwerk freischalten, falls man es 
+#im Internet sehen möchte.
 
 
 
