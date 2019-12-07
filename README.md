@@ -1,5 +1,5 @@
 # flask_web
-Ein erster Webserver mit Flask im Container
+Ein erster Python Webserver mit Flask im Container
 
 Wir benutzen das Python Programm app.py
 
